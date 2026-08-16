@@ -1,0 +1,6 @@
+{
+  "name": "push-llm-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CF Worker 代理 push-server 调 LLM API (minimaxi / Google Gemini 等海外服务)"
+}
